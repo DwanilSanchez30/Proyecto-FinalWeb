@@ -2,4 +2,3 @@
 
 Proyecto final de prog. Web que trata sobre mostrar listas y un formulario conectados a una base de datos.
 
-Preview de la pagina(assets\Preview LibreriaITLA.png)
